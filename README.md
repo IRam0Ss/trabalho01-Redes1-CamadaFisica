@@ -77,7 +77,7 @@ Para executar este projeto, você precisará ter o **JDK (Java Development Kit)*
     *Obs: Substitua `/caminho/para/seu/javafx-sdk/lib` pelo caminho real onde você descompactou o JavaFX SDK.*
 
 ## Vídeo Demonstrativo
-![Demonstração funcional](redes1_trabalho01_202310440/img/videoTesteTrabalho01.mp4)
+![Demonstração funcional](redes1_trabalho01_202310440/img/gifTrabalho01Demonstracao.gif)
 
 ## 👤 Autor
 
@@ -85,3 +85,4 @@ Para executar este projeto, você precisará ter o **JDK (Java Development Kit)*
 * **Matrícula:** 202310440
 * **Início:** 19/08/2025
 * **Última alteração:** 26/08/2025
+
