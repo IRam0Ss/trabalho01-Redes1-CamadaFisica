@@ -5,7 +5,7 @@ Simulador didático desenvolvido em Java com JavaFX para a disciplina de Redes d
 
 <br>
 
-![Interface do E.D.E.N.](redes1_trabalho01_202310440/img/fundoPrincipal.png)
+![Interface do E.D.E.N.](redes1_trabalho01_202310440/img/telaPrintTrabalho01.png)
 
 ## 📜 Sobre o Projeto
 
@@ -75,6 +75,9 @@ Para executar este projeto, você precisará ter o **JDK (Java Development Kit)*
     java --module-path /caminho/para/seu/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml Principal
     ```
     *Obs: Substitua `/caminho/para/seu/javafx-sdk/lib` pelo caminho real onde você descompactou o JavaFX SDK.*
+
+## Vídeo Demonstrativo
+![Demonstração funcional](redes1_trabalho01_202310440/img/videoTesteTrabalho01.mp4)
 
 ## 👤 Autor
 
